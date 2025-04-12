@@ -96,7 +96,7 @@ display: block;
 
 /*<!-- Our advantages section -->*/
 
-.section-advantages {
+/*.section-advantages {
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -139,7 +139,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-}
+}*/
 
 /*< !-- Our team section -->*/
 
@@ -175,8 +175,6 @@ color: #434455;
 .our-section {
 display: flex;
 gap: 24px;
-
-
 }
 
 
@@ -205,7 +203,7 @@ gap: 24px;
         color: #2e2f42;
         text-transform: capitalize;
         text-align: center;
-        margin-bottom: 8px
+        margin-bottom: 8px;
 }
 
 .page-product {
